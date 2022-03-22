@@ -1,0 +1,163 @@
+/* bc color :#ddf5ee... font color : #00C897... 16px= 100%= 1em*/
+
+/*font-family: 'Merriweather', serif;*/
+/*font-family: 'Montserrat', sans-serif;*/
+/*font-family: 'Sacramento', cursive;*/
+
+body, hr {
+    margin: 0;
+    text-align: center;
+}
+
+hr {
+    border: none;
+    border-top: #eaf6f6 dotted 8px;
+    margin: 80px auto;
+    width: 5%;
+}
+
+a{
+    transition: 0.7s;
+    color: #11999e;
+    text-decoration: none;
+}
+
+.bottom-container a{
+    margin: auto 20px auto 20px;
+}
+
+a:hover{
+    color: white;
+}
+
+p {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    color: #40514e;
+    font-size: 110%;
+}
+
+h1 {
+    color: #66bfbf;
+}
+
+h2 {
+    color: #66bfbf;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 200%;
+    /*font-weight: normal;*/
+}
+
+h3 {
+    color: #66bfbf;
+    font-family: 'Montserrat', sans-serif;
+}
+
+a {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+.top-cloud {
+    position: absolute;
+    margin: -40px 0 0 260px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 250px;
+}
+
+.mountain {
+    padding-bottom: 10px;
+}
+
+#pro {
+    text-decoration: underline;
+}
+
+.head-h1 {
+    color: #66bfbf;
+    font-family: Sacramento, cursive;
+    font-size: 562%;
+    margin-bottom: -40px;
+    margin-top: 35px;
+}
+
+.top-container {
+    background-color: #eaf6f6;
+    text-align: center;
+    padding-top: 130px;
+    padding-bottom: 30px;
+}
+
+
+.middle-container {
+    padding-top: 30px;
+}
+
+.contact-me {
+    padding-bottom: 50px;
+}
+
+.contact-me h2 {
+    margin-bottom: 40px;
+}
+
+.bottom-container {
+    background-color: #66bfbf;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    margin: 0;
+}
+
+.skill-row {
+    /*background-color: rosybrown;*/
+    line-height: 2;
+    margin: 70px auto 100px auto;
+    text-align: left;
+    width: 50%;
+}
+
+.first-img {
+    float: left;
+    margin-right: 30px;
+    text-align: left;
+    width: 25%;
+}
+
+.second-img {
+    float: right;
+    margin-left: 30px;
+    text-align: left;
+    width: 25%;
+}
+
+.profile-img {
+    /*border-radius: 50%;*/
+    width: 15%;
+    height: 15%;
+}
+
+.btn-contact:link, .btn-contact:visited {
+    background-image: linear-gradient(#66bfbf,#15dec3);
+    display: inline-block;
+    text-decoration: none;
+    padding: 15px 25px;
+    border-radius: 15px;
+}
+
+.btn-contact:hover {
+    color: whitesmoke;
+    display: inline-block;
+    background-image: linear-gradient(#029883, #07bbbb);
+    text-decoration: none;
+    padding: 15px 25px;
+    border-radius: 15px;
+}
+
+.copyright {
+    color: #eaf6f6;
+}
+
+
